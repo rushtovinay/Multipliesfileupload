@@ -1,0 +1,45 @@
+Subhojit Das:
+
+1- Only one thing, either objective or Profile summary---- I will recommend Profile summary.
+2- We need to bring Work experience on top(somehow at least it should start from the very first page)   
+
+3- In profile summary edit point-1,  "A focused professional with rich experience of 11 years in
+  Cloud, Amazon Web Services, Deployment, Monitoring Insights, Data Analysis, Reporting, Maintenance
+  of Business Reports, and Data Verification. 
+
+4- We need to merge Technical skills and core competencies as 1 column
+
+5- In work-experience, please change first experience time period as: *December 2018- Present
+   2nd experience: July 2015 - November 2018 
+
+6- Removing Finance Analyst from last experience
+7- Terraform [IaC]
+------------------------------------------------------------------------------------------------
+
+Akash:
+
+0- Objective change: Seeking a challenging position utilizing my 1.6 years of experience in cloud/DevOps and networking 
+to contribute to the successful implementation and management of cloud-based solutions, leveraging 
+my expertise in cloud infrastructure,network maintenance, automation, and continuous integration/continuous delivery (CI/CD) pipelines.
+
+1- In 1st work experience, rename Technology Support Specialist as "Cloud Support Specialist". 
+2- Delete the second point, Remove the word Demonstrated from 4th point and make this point as second point. 
+Highlight the word Active Directory service administrator and INSPUR server data center.
+3- Migrating on-premises data into cloud-based environments, ensuring all necessary access and privelages.(3rd point)
+4- Conducted user separation procedures by removing access and deleting AWS Workstations, ensuring security and 
+    compliance standards were met.(4th point)
+5- Efficiently integrated users and user groups into cloud-based environments.(5th point)
+
+6- Rename 3rd experience as, Network Engineer | UFO Moviez India Ltd | May 2018 - Dec 2020
+7- IIT MADRAS in certification should be highlighted
+8- Mention complete name of Intellipaat(will look like a company)
+9- In education, bachelor of computer science may look more good.
+10- No project is mentioned from his L2 server support engineer experience, we need to grab it and mention it as project 3
+11- 1st project should be made 4rd project and headings have to be removed like problem statement, roles and responsibilities, 
+topics,---it has to be merged like the other two mentioned projects.
+
+------------------------------------------------------------------------------------------------------------------
+
+
+
+
